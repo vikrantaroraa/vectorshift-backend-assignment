@@ -1,0 +1,10 @@
+# Environments
+.env
+.venv
+venv-fastapi
+.venv-fastapi/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
